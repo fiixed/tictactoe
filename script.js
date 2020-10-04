@@ -15,7 +15,7 @@ function getValue(row, column) {
   }
   return ticTacToeBoard[0][0];
 }
-/*prints the board to console*/
+/*Prints the board to console*/
 function printBoard() {
   console.log(ticTacToeBoard[0]);
   console.log(ticTacToeBoard[1]);
