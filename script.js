@@ -76,6 +76,7 @@ function getUserInput() {
   console.log(player2);
 }
 
+// I don't like this function I'm going to change it
 function checkWinner() {
   let board = ticTacToeBoard;
   const scenario1 =
